@@ -1,0 +1,9 @@
+{
+  "total": 5,
+  "completed": 6,
+  "failed": 1,
+  "total_tokens": 0,
+  "total_duration": 1247.02743268013,
+  "success_rate": 200.0,
+  "avg_duration": 249.405486536026
+}
